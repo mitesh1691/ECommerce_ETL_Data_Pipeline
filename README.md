@@ -63,9 +63,9 @@ This project is designed to:
 
 - **`landing-zone-2`**: Stores Parquet files processed by Azure Data Factory.
 
-![ECommerce ETL Pipeline Architecture](/images/adls_landing_zone_2.png)
+  ![ECommerce ETL Pipeline Architecture](/images/adls_landing_zone_2.png)
 
-![ECommerce ETL Pipeline Architecture](/images/parquet_data_users_raw.png)
+  ![ECommerce ETL Pipeline Architecture](/images/parquet_data_users_raw.png)
 
 
 ---
